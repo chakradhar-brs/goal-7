@@ -1,4 +1,4 @@
 # spacex clone homepage
     
 
-#### [here](http://203.193.173.125/buildriseshine/design/spacex-clone-homepage/).
+#### ( https://chakradhar-brs.github.io/goal-7/).
